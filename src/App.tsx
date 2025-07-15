@@ -24,7 +24,7 @@ function App() {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4 text-warm-orange" />
-                <span className="text-sm text-rich-brown">admin@thenamnaturals.com</span>
+                <span className="text-sm text-rich-brown">admin@thenamsoftwaresolutions.com</span>
               </div>
             </div>
           </div>
@@ -37,9 +37,8 @@ function App() {
         <div className="text-center mb-16">
           <div className="mb-8">
             <h2 className="text-6xl lg:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-rich-brown to-warm-orange mb-2">
-              Coming Sooner
             </h2>
-            <p className="text-xl text-rich-brown/70 mb-8">Revolutionary Solutions Ahead</p>
+            <p className="text-xl text-rich-brown/70 mb-8"></p>
           </div>
           <div className="mb-4">
             <h3 className="text-4xl lg:text-5xl font-bold text-rich-brown">
@@ -138,7 +137,7 @@ function App() {
               <h3 className="text-2xl font-bold text-rich-brown mb-6">Submit your CV & Portfolio:</h3>
               <p className="text-rich-brown/70 mb-6">Send your application to our email address and we'll get back to you soon.</p>
               <a 
-                href="mailto:admin@thenamnaturals.com?subject=Internship Application - Thenam Software Solutions&body=Dear Hiring Team,%0D%0A%0D%0AI am interested in applying for an internship position at Thenam Software Solutions.%0D%0A%0D%0APlease find my CV and portfolio attached.%0D%0A%0D%0ABest regards"
+                href="mailto:admin@thenamsoftwaresolutions.com?subject=Internship Application - Thenam Software Solutions&body=Dear Hiring Team,%0D%0A%0D%0AI am interested in applying for an internship position at Thenam Software Solutions.%0D%0A%0D%0APlease find my CV and portfolio attached.%0D%0A%0D%0ABest regards"
                 className="inline-block bg-gradient-to-r from-warm-orange to-golden-yellow text-white px-8 py-3 rounded-lg font-semibold hover:from-warm-orange/90 hover:to-golden-yellow/90 transition-all duration-300 transform hover:scale-105 shadow-md"
               >
                 Apply Now
