@@ -129,7 +129,7 @@ function App() {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail className="w-5 h-5 text-warm-orange" />
-                  <span className="text-lg text-rich-brown">admin@thenamnaturals.com</span>
+                  <span className="text-lg text-rich-brown">admin@thenamsoftwaresolutions.com</span>
                 </div>
               </div>
             </div>
