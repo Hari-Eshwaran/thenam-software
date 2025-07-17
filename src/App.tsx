@@ -63,7 +63,7 @@ function App() {
             <div className="w-16 h-16 bg-gradient-to-br from-warm-orange to-golden-yellow rounded-full flex items-center justify-center mx-auto mb-4">
               <Users className="w-8 h-8 text-white" />
             </div>
-            <h3 className="text-xl font-semibold text-rich-brown mb-2">UI&UX Designer</h3>
+            <h3 className="text-xl font-semibold text-rich-brown mb-2">Web Developer</h3>
             <p className="text-rich-brown/70">Create beautiful and intuitive user experiences</p>
           </div>
 
